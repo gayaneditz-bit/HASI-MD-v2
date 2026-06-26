@@ -172,9 +172,9 @@ async function connectToWA() {
             title: "© Hasi-md 𝗑ᴾᴿᴼ 💚",
             body: " ©dtz-naruto 𝐎𝐅𝐂 💚",
             mediaType: 1,
-            sourceUrl: "https://github.com/Mrrashmika",
+            sourceUrl: "https://github.com/gayaneditz-bit/HASI-MD-v2.git",
             thumbnailUrl:
-              "https://i.ibb.co/r2DhffPt/134f9081fc93.jpg", // This should match the image URL provided above
+              "https://i.ibb.co/271whBpp/c9d0b775835a.jpg", // This should match the image URL provided above
             renderLargerThumbnail: false,
             showAdAttribution: true,
           },
